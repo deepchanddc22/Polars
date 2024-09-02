@@ -1,6 +1,6 @@
 # Polars Methods Tutorial
 
-![Alt text](path/to/image.svg)
+![Polars logo](polars_github_banner.svg)
 
 
 Polars Methods Tutorial! This repository contains a Jupyter Notebook that covers various essential functions and methods in the Polars library, a powerful DataFrame library for Rust and Python.
