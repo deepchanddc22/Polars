@@ -1,6 +1,7 @@
 # Polars Methods Tutorial
 
-
+![Alt text]
+(https://github.com/deepchanddc22/Polars/blob/813ce21d9a10609ca7e34c456ab08118b9bdadde/polars_github_banner.svg)
 
 Polars Methods Tutorial! This repository contains a Jupyter Notebook that covers various essential functions and methods in the Polars library, a powerful DataFrame library for Rust and Python.
 
