@@ -1,6 +1,6 @@
 # Polars Methods Tutorial
 
-Welcome to the Polars Methods Tutorial! This repository contains a Jupyter Notebook (`Polars_Methods.ipynb`) that covers various essential functions and methods in the Polars library, a powerful DataFrame library for Rust and Python.
+Polars Methods Tutorial! This repository contains a Jupyter Notebook that covers various essential functions and methods in the Polars library, a powerful DataFrame library for Rust and Python.
 
 ## Overview
 
@@ -11,7 +11,6 @@ The notebook includes examples of the following:
 - **Data Manipulation**: Methods for filtering, sorting, and grouping data.
 - **Aggregation**: Examples of performing aggregate operations on DataFrames.
 - **Join Operations**: Demonstrating how to merge DataFrames using different join types.
-- **Time Series Analysis**: Handling and processing time series data in Polars.
 - **Data Export**: Exporting DataFrames to various formats.
 
 Each section includes clear examples and explanations to help you understand and apply these methods to your data processing tasks.
@@ -30,6 +29,5 @@ Ensure you have the following installed:
 
 To run the notebook locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/polars-methods-tutorial.git
+1. Clone the repository
+2. Run the cells
